@@ -19,6 +19,8 @@ venv/
 **/.venv/
 env/
 .env
+.env.local
+
 
 # Database
 *.sqlite3
