@@ -1,0 +1,30 @@
+# Node
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+out/
+build/
+dist/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+**/venv/
+.venv/
+**/.venv/
+env/
+.env
+
+# Database
+*.sqlite3
+*.db
+gatescope.db
+
+# OS
+.DS_Store
+Thumbs.db
